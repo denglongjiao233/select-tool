@@ -1,0 +1,13 @@
+#content{
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid rgb(180, 176, 176);
+    text-align: center;
+}
+#addBtn{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#start{
+    margin-bottom: 20px;
+}
